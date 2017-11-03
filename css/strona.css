@@ -99,9 +99,6 @@ a {
   color: white;
   background: url("../img/intro.jpg") no-repeat bottom center scroll;
   background-color: black;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover; }
   .head .intro-body {
     display: table-cell;
@@ -127,10 +124,7 @@ a {
   padding-top: 150px;
   padding-bottom: 150px;
   color: black;
-   background-color: #f3efd4;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover; }
+   background-color: #f3efd4; }
 
 @media (min-width: 992px) {
   .content-section {
@@ -140,25 +134,3 @@ a {
 
 footer {
   padding: 0px 0; }
-  footer p {
-    font-size: 14px;
-    margin: 0; }
-
-::-moz-selection {
-  background: #fcfcfc;
-  background: rgba(255, 255, 255, 0.2);
-  text-shadow: none; }
-
-::selection {
-  background: #fcfcfc;
-  background: rgba(255, 255, 255, 0.2);
-  text-shadow: none; }
-
-img::selection {
-  background: transparent; }
-
-img::-moz-selection {
-  background: transparent; }
-
-body {
-  -webkit-tap-highlight-color: rgba(255, 255, 255, 0.2); }

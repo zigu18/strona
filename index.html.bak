@@ -19,7 +19,7 @@
     <link href='https://fonts.googleapis.com/css?family=Cabin:700' rel='stylesheet' type='text/css'>
 
     <!-- Custom styles for this template -->
-    <link href="css/grayscale.css" rel="stylesheet">
+    <link href="css/strona.css" rel="stylesheet">
 
   </head>
 
@@ -82,7 +82,7 @@
     </section>
 
     <!-- Why Section -->
-    <section id="why" class="why-section text-center">
+    <section id="why" class="content-section text-center">
       <div class="container">
         <div class="col-lg-8 mx-auto">
           <h2>Dlaczego MY</h2>
@@ -121,7 +121,7 @@
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
    
     <!-- Custom scripts for this template -->
-    <script src="js/grayscale.js"></script>
+    <script src="js/strona.js"></script>
 
   </body>
 
